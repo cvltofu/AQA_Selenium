@@ -1,0 +1,20 @@
+[
+    {
+        "browser": "chrome",
+        "baseUrl": "https://store.steampowered.com/",
+        "delay": "20000",
+        "languages": [
+            "english",
+            "spanish",
+            "french",
+            "german",
+            "italian",
+            "russian",
+            "japanese",
+            "portuguese",
+            "brazilian"
+        ],
+        "year": 2022,
+        "game": "Dota 2"
+    }
+]

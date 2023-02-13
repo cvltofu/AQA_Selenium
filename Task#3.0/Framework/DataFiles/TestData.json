@@ -1,0 +1,32 @@
+[
+    {
+        "browser": "chrome",
+        "baseUrl": "https://demoqa.com/",
+        "firstUserData": {
+            "firstName": "Jon",
+            "lastName": "Snow",
+            "age": "30",
+            "email": "knownothing@gmail.com",
+            "salary": "3000",
+            "department": "alpha"
+        },
+        "secondUserData": {
+            "firstName": "Buttercup",
+            "lastName": "Cumbersnatch",
+            "age": "41",
+            "email": "BudapestCandygram@mail.io",
+            "salary": "2000",
+            "department": "beta"
+        },
+        "numberOfTestedUser": 1,
+        "promptTextStartEndtPos": {
+            "start": 12,
+            "end": 17
+        },
+        "randomStringProps": {
+            "base": 36,
+            "start": 2,
+            "end": 7
+        }
+    }
+]

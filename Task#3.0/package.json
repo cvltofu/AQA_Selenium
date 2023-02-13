@@ -1,0 +1,27 @@
+{
+    "name": "i.shokel",
+    "version": "1.0.0",
+    "description": "",
+    "type": "module",
+    "scripts": {
+        "start": "node app.js",
+        "test": "mocha ./Framework/Core/BaseTest.js ./Test/Tests/*.js --timeout 10000"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/a1qa-education-L1/i.shokel.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/a1qa-education-L1/i.shokel/issues"
+    },
+    "homepage": "https://github.com/a1qa-education-L1/i.shokel#readme",
+    "dependencies": {
+        "chai": "^4.3.7",
+        "chromedriver": "^108.0.0",
+        "log4js": "^6.7.1",
+        "mocha": "^10.2.0",
+        "selenium-webdriver": "^4.7.0"
+    }
+}

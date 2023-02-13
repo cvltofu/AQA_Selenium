@@ -1,0 +1,6 @@
+[
+    {
+        "delay": "20000",
+        "args": ["--test-type", "--start-maximized"]
+    }
+]
